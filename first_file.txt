@@ -5,8 +5,13 @@ Như đẳng hành khang thủ bại hư
 
 Thân em vừa trắng lại vừa tròn
 Bảy nổi ba chìm với nước non
-Mà em vẫn giữ tấm lòng son
 Rắn nát mặc dù tay kẻ nặn
+Mà em vẫn giữ tấm lòng son
+
+Bước tới đèo ngang bóng xế tà
+Cỏ cây chen đá, lá chen hoa
+Lom lom dưới núi tiều vài chú
+Lác đác bên sông chợ mấy nhà 
 
 Nội dung commit trên main kể từ khi chia nhánh bugFix
 Quanh năm buôn bán ở mom sông
@@ -27,3 +32,4 @@ Chúc mừng sinh nhật An còi
 Nỗi buồn qua hết năm rồi
 Niềm vui lại đến bồi hồi năm sau
 An lành hạnh phúc thay nhau đón chào
+
