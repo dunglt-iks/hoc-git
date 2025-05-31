@@ -7,3 +7,6 @@ Thân em vừa trắng lại vừa tròn
 Bảy nổi ba chìm với nước non
 Mà em vẫn giữ tấm lòng son
 Rắn nát mặc dù tay kẻ nặn
+
+
+Nội dung này tồn tại trong branch bugFix. Không tồn tại trong branch main
